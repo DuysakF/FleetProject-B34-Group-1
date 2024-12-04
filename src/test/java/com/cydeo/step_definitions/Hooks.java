@@ -2,8 +2,6 @@ package com.cydeo.step_definitions;
 
 
 import com.cydeo.utilities.BrowserUtils;
-import com.cydeo.utilities.BrowserUtils;
-import com.cydeo.utilities.ConfigurationReader;
 import com.cydeo.utilities.ConfigurationReader;
 import com.cydeo.utilities.Driver;
 import io.cucumber.java.After;
